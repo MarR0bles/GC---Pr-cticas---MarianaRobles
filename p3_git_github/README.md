@@ -1,6 +1,7 @@
 # Práctica 3. Git y GitHub
 
 ## Instrucciones
+NOTA: algunos de los comandos son de windows
 
 #### 1. Colócate dentro de tu carpeta practicas_genomica_computacional e inicializala como un repositorio local de git.
 
