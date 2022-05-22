@@ -119,7 +119,7 @@ git add README.md
 
 **Comando**
 ```
-git commit -m "Descripcion deprograma."
+git commit -m "Descripcion de programa."
 ```
 
 **Salida**
